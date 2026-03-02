@@ -55,7 +55,6 @@ This includes:
 
 ### Quick Start Guide
 
-1. **Install the app**: Download from [SideQuest](https://sidequestvr.com/app/45514) or sideload the APK file from the Releases section of this repository. [This video](https://www.youtube.com/watch?v=bsC805t63-E) has a good guide on how to set up sideloading.
 2. **!!! IMPORTANT !!! Enable permissions**: **When you first launch the app, make sure to check "Enable Headset Cameras" when the permissions are asked for.**
 3. **Start recording**: Launch the app and press the Menu button on the left controller to start a capture session.
 4. **Stop recording**: To stop, press the left controller's Menu button again.
@@ -63,7 +62,7 @@ This includes:
 Or, you can use press the Y button on the left controller to toggle the Recording Menu. Select "Export Data" to export the data to a zip file in the Quest 3 Download folder which can be uploaded to Google Drive or other cloud storage services.
 6. **Reconstruct the scene**: Use the companion project [Meta Quest 3D Reconstruction](https://github.com/samuelm2/quest-3d-reconstruction) to reconstruct a COLMAP sparse point cloud from the captured data. Or, if you prefer a cloud-based, end-to-end solution, you can go to [vid2scene.com/upload/quest](https://vid2scene.com/upload/quest) and upload the Quest raw data zip file to create a 3DGS reconstruction on the cloud.
 
-### 📸 How to take a good capture
+###  How to take a good capture
 
 To ensure the best possible 3D reconstruction results:
 
